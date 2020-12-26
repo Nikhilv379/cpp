@@ -8,6 +8,6 @@ int main()
         cout<<"Enter the value for b : ";
          cin>>b;
         sub=a-b;
-        cout<<"The subtraction of a & b is : "<<sub;
+        cout<<"The subtraction of a & b (a-b) is : "<<sub;
     return 0;
 }
